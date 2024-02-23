@@ -35,3 +35,31 @@ Cada jogador é representado por um documento no MongoDB contendo seu nome, equi
   ],
   "pontuacaoTotal": 0
 }
+Instalação
+Para configurar o ambiente e executar o projeto, siga estes passos:
+
+Clone o repositório:
+bash
+Copy code
+git clone https://github.com/seu-usuario/FootballStatsComparator.git
+Navegue até o diretório do projeto:
+bash
+Copy code
+cd FootballStatsComparator
+Instale as dependências necessárias:
+Copy code
+pip install -r requirements.txt
+Uso
+Para executar a análise e comparar jogadores:
+
+Certifique-se de ter o MongoDB rodando e acessível conforme configurado em src/config.py.
+
+Execute o script principal para iniciar a análise:
+
+bash
+Copy code
+python src/training_script.py
+Contribuindo
+Contribuições são bem-vindas! Se você tem uma sugestão para melhorar este projeto, por favor, abra uma issue para discussão ou diretamente um pull request.
+
+
