@@ -39,8 +39,7 @@ Instalação
 Para configurar o ambiente e executar o projeto, siga estes passos:
 
 Clone o repositório:
-bash
-Copy code
+
 git clone https://github.com/seu-usuario/FootballStatsComparator.git
 Navegue até o diretório do projeto:
 bash
@@ -56,8 +55,7 @@ Certifique-se de ter o MongoDB rodando e acessível conforme configurado em src/
 
 Execute o script principal para iniciar a análise:
 
-bash
-Copy code
+
 python src/training_script.py
 Contribuindo
 Contribuições são bem-vindas! Se você tem uma sugestão para melhorar este projeto, por favor, abra uma issue para discussão ou diretamente um pull request.
